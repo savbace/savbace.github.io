@@ -1,0 +1,19 @@
+body {
+    font-family: Nueue, Segoe UI, Arial, Tahoma;
+}
+.main-header {
+    margin-top: 50px;
+    margin-bottom: 70px;
+}
+.avatar {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.center-text {
+    text-align: center;
+}
+.center-block {
+    margin: 0 auto;
+    display: block;
+}
